@@ -10,3 +10,4 @@ console.log(way2);
 require('./7-mind-grenade');
 const path= require('path');
 console.log(path.sep);
+console.log("edited2");
